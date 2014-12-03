@@ -14,4 +14,6 @@ Be sure to run npm install to fetch dependencies and optionally install gulp glo
 
 Run gulp and after a bit you should see the console log out that it is ready.  You can now now push song-play event with a spotify track string through pusher and the player should spin up.  On endOfTrack, this example will reach out to the web app to find the next song in the list
 
+Lastly, there is a darkice.cfg sample file to use to optionally broadcast your audio to an icecast server
+
 Many much refinements to come
