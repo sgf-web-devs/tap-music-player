@@ -5,6 +5,7 @@ This is just a sample, and a messy one at that, of how to implement the Libspoti
 The logic is based off the paths and configs of https://github.com/sgf-web-devs/tap-music
 
 Make sure to put your spotify key in the root and name it something like spotify_appkey.key
+You can register an app to leverage libspotify at https://devaccount.spotify.com/my-account/keys/
 
 Libspotify will need to be installed globally since node-spotify depends on it.  Read more at http://www.node-spotify.com/
 
