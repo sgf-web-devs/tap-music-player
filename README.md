@@ -141,6 +141,8 @@ spotify.login('YOURUSERNAME', 'YOURPASSWORD', false, false);
 
 With your username, and password from Spotify.
 
+Lastly, move the downloaded **~/Downloads/spotify_appkey.key** to the root of this project.
+
 
 ## Usage
 Simply run the following command in the root of the repository.
